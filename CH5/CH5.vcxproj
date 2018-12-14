@@ -18,6 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="5-1-연습문제1.c" />
+    <ClCompile Include="5-1-연습문제2.c" />
+    <ClCompile Include="5-1-연습문제3.c" />
+    <ClCompile Include="5-1-연습문제4.c" />
+    <ClCompile Include="5-1-연습문제5.c" />
+    <ClCompile Include="5-1.C" />
+    <ClCompile Include="5-2.c" />
+    <ClCompile Include="5-3.c" />
+    <ClCompile Include="5-4.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{B15A0BB3-EABC-4B60-AB0C-3797C36AC1ED}</ProjectGuid>
@@ -138,8 +149,6 @@
       <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
